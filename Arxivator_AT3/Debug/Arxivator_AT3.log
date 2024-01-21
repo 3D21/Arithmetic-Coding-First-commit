@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\ivanp\source\repos\Arxivator_AT3\Source.cpp(27,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ivanp\source\repos\Arxivator_AT3\Source.cpp(79,23): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\ivanp\source\repos\Arxivator_AT3\Source.cpp(108,27): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\ivanp\source\repos\Arxivator_AT3\Source.cpp(125,35): warning C4244: =: преобразование "long double" в "__int64", возможна потеря данных
+  Arxivator_AT3.vcxproj -> C:\Users\ivanp\source\repos\Arxivator_AT3\Debug\Arxivator_AT3.exe
