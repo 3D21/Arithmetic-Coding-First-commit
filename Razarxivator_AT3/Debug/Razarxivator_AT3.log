@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\ivanp\source\repos\Razarxivator_AT3\Source.cpp(32,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ivanp\source\repos\Razarxivator_AT3\Source.cpp(60,22): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\ivanp\source\repos\Razarxivator_AT3\Source.cpp(130,20): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\ivanp\source\repos\Razarxivator_AT3\Source.cpp(198,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ivanp\source\repos\Razarxivator_AT3\Source.cpp(199,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Razarxivator_AT3.vcxproj -> C:\Users\ivanp\source\repos\Razarxivator_AT3\Debug\Razarxivator_AT3.exe
